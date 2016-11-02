@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OkHttp</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="choose_pass">Choose Password</string>
+    <string name="repeat_pass">Repeat Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="loginText">Login</string>
+    <string name="passwordText">Password</string>
+    <string name="newMsg">Type message to send</string>
+</resources>
